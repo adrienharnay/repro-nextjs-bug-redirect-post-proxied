@@ -1,5 +1,3 @@
-const REDIRECT_URL = "https://www.joshwcomeau.com";
-
 /**
  * @type {import('next').NextConfig}
  */
